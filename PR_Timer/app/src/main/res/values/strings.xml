@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">PR_Timer</string>
-    <string name="recovery">0</string>
-    <string name="main">0</string>
-    <string name="timer_running">STOP</string>
-    <string name="timer_stopped">START</string>
-</resources>
